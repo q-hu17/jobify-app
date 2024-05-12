@@ -16,7 +16,7 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            I'm baby blue bottle polaroid bushwick asymmetrical, craft beer artisan pabst direct trade jean shorts. Retro grailed actually beard small batch cliche bodega boys gorpcore heirloom air plant keytar. Trust fund solarpunk intelligentsia cornhole tote bag put a bird on it shoreditch fit brunch. 3 wolf moon quinoa whatever skateboard shabby chic typewriter squid, thundercats sartorial austin.
+            Stay Organized and Stay Ahead: Effortlessly Manage Your Job Hunt with Our Intuitive Job Tracking App!
           </p>
           <Link to='register' className='btn register-link'>
             Register
