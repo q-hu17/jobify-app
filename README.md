@@ -84,23 +84,26 @@ Welcome to the **Jobify** MERN Stack project, a full-stack web application built
    MONGODB_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
    ```
+
 4. **Start the development servers:**
-    - For the client(React app):
-    ```bash
-    cd client
-    npm run dev
-    ```
-    - For the server(Express app):
-    ```bash
-    cd server
-    npm run dev
-    ```
+   - For the client(React app):
+   ```bash
+   cd client
+   npm run dev
+   ```
+   - For the server(Express app):
+   ```bash
+   cd server
+   npm run dev
+   ```
 
 ### Running the Application
+
 1. Client Side: Navigate to http://localhost:3000 to view the React front-end.
-2. Server Side: Ensure the Express server is running on http://localhost:5000.
+2. Server Side: Ensure the Express server is running on http://localhost:5100.
 
 ### Deployment
+
 1. Set up a new service on Render for the server with the appropriate environment variables.
 2. Set up another service for the client, ensuring that the server URL is correctly set in the client's environment variables.
 3. Deploy both services, and your application will be live!
